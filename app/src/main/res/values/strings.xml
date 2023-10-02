@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Plants Care</string>
+    <string name="login_email_hint">Email Address</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="or">Or</string>
+    <string name="new_user_register_now">Register here</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bt_close">Close</string>
+    <string name="save">Save</string>
+    <string name="add_plant">Add Plant</string>
+    <string name="plant_name">Plant name</string>
+    <string name="how_to_take_care">How to take Care</string>
+    <string name="how_many_times_to_water">How many times to Water</string>
+    <string name="how_many_times_to_change_soil">How many times to change soil</string>
+    <string name="does_require_direct_sunlight">Does require direct sunlight</string>
+    <string name="require_direct_sunlight">Require direct sunlight</string>
+    <string name="plant_type">Plant Type</string>
+    <string name="my_plants">My Plants</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="register_here">Register Here!</string>
+    <string name="logout">Logout</string>
+    <string name="add_image">Add Image</string>
+    <string name="date">Date</string>
+    <string name="watered">Watered</string>
+    <string name="soiled">Soiled</string>
+    <string name="changed_soil">Changed Soil</string>
+    <string name="description">Description</string>
+    <string name="progress_update">Progress Update</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="add_progress">Add Progress</string>
+</resources>
